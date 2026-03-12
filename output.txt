@@ -1,0 +1,32 @@
+
+----- Candidate Profile -----
+Candidate Name: Arjun
+Date of Birth: 15-03-1998
+Contact Number: 9876543210
+Email: arjun@email.com
+Degree: B.Tech
+University: JNTU Hyderabad
+Year of Graduation: 2020
+CGPA: 8.5
+Company Name: Infosys
+Job Role: Software Engineer
+Years of Experience: 6
+Skills: Python, Java, SQL
+Eligibility: Eligible for Senior Role
+
+----- Candidate Profile -----
+Candidate Name: Sneha
+Date of Birth: 10-08-2001
+Contact Number: 9123456780
+Email: sneha@email.com
+Degree: B.Tech
+University: Osmania University
+Year of Graduation: 2023
+CGPA: 8.9
+Company Name: TCS
+Job Role: Junior Developer
+Years of Experience: 2
+Skills: Python, HTML, CSS
+Eligibility: Eligible for Junior Role
+
+=== Code Execution Successful ===
